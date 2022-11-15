@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 
 app.use(bodyParser.urlencoded({extended: true}));
 
-mongoose.connect("SENSITIVEDATA", { useNewUrlParser: true}, { useUnifiedTopology: true})
+mongoose.connect("MONGODB URL", { useNewUrlParser: true}, { useUnifiedTopology: true})
 
 //create data schema
 const dataSchema = {
