@@ -16,4 +16,4 @@ node server.js
 ```
 
 # View of Page
-![view-img](/../cyber/imgs/view-img.png?raw=true "API Viewer")
+![view-img](https://raw.githubusercontent.com/kuc/cyber/main/imgs/view-img.png "API Viewer")
