@@ -2,4 +2,4 @@
 ## This project is for academic purposes only. It is NOT meant to be used for any malicious activities.
 
 ### DISCLAIMER
-This site is not the real Instagram. I created this site for educational purposes only. Under no circumstance shall I have any liability to you for any loss or damage of any kind incurred as a result of the use of the site or reliance on any information provided on the site. Your use of the site and your reliance on any information on the site is solely at your own risk.
+This software or hardware is developed for general use in a variety of information management applications. It is not developed or intended for use in any inherently dangerous applications, including applications that may create a risk of personal injury. If you use this software or hardware in dangerous applications, then you shall be responsible to take all appropriate failsafe, backup, redundancy, and other measures to ensure its safe use. My affiliates and I disclaim any liability for any damages caused by use of this software or hardware in dangerous applications.
