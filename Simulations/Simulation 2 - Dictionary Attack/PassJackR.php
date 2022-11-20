@@ -4,7 +4,7 @@
     <div>
         <!-- <input type="hidden" name="newData" id="newData" value="newAdventure"> -->
         <?php
-         $myfile = fopen("/home/lemacc/public_html/cs225Research/Test.txt", "r") or die("Unable to open file!");
+         $myfile = fopen("Test.txt", "r") or die("Unable to open file!");
 
          $theData = fread($myfile, filesize("Test.txt"));
 
