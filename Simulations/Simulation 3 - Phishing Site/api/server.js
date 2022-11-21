@@ -33,5 +33,5 @@ app.get("/insert", function(req, res){
 
 var port = process.env.PORT || 3000;
 app.listen(port, function() {
-    console.log('Express started on port 3000');
+    console.log('Express started on port ' + port);
 })
